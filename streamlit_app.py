@@ -301,4 +301,4 @@ elif branch == "5. Asidimetri (HCl/Warder)":
                     
                     # Check for negative volumes (indicates pure NaOH or pure Na2CO3)
                     if vol_hcl_naoh < 0:
-                        st.warning("Hasil Negatif: Samp
+                        st.warning("Hasil Negatif: Sampel")
